@@ -9,3 +9,4 @@ while var > 0:
         continue
     print '当前值 :', var
 print "Good bye!"
+--just a example
