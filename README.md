@@ -1,2 +1,2 @@
 # selflearning
-none
+this is my first try using the github
